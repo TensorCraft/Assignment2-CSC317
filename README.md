@@ -2,7 +2,7 @@
 
 > **_INFO:_** This is an assignment for class CSC317 - Introduction to Web Development
  
-## Preview on the deployment: [https://tensorcraft.github.io/Assignment2-CSC317/](https://tensorcraft.github.io/SF_CityView_Parallax/)
+## Preview on the deployment: [https://tensorcraft.github.io/SF_CityView_Parallax/](https://tensorcraft.github.io/SF_CityView_Parallax/)
 
 ### Highlights:
 + **SVG San Francisco View**:![image](https://github.com/user-attachments/assets/57a52fa1-84bb-4600-aa15-7b57b601fed1)
