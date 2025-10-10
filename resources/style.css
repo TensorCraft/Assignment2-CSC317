@@ -153,6 +153,7 @@ p {
     border-end-end-radius: 8px;
     border-top-right-radius: 8px;
     transition: all 0.5s ease-in-out;
+    margin: 0 auto;
 }
 
 p:hover {
@@ -161,27 +162,11 @@ p:hover {
     transform: scale(1.01);
     user-select: none;
 }
-
-code {
-    user-select: text;
-    background-color: #33372C;
-    color: #fff;
-    padding: 3px;
+p a {
+    display: inline-block;
+    color: #333;
 }
 
-.symbol {
-    color: #707070;
-}
-
-.keyword {
-    color: #3e85b7;
-    font-weight: bold;
-}
-
-.attribute {
-    color: #8cd9fc;
-}
-
-.string {
-    color: #c6826d;
+p a:hover {
+    color: #777;
 }
